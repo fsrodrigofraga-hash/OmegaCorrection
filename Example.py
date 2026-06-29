@@ -20,7 +20,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import inspect
 
-import CorrectionOmegaGW as corr
+import OmegaGW_MG as corr
 from popstock.PopulationOmegaGW import PopulationOmegaGW
 from gwpopulation.models.mass import SinglePeakSmoothedMassDistribution
 from gwpopulation.models.redshift import MadauDickinsonRedshift
