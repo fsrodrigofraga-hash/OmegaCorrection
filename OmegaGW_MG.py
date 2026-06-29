@@ -1,5 +1,5 @@
 # ============================================================
-# CorrectionOmegaGW
+# OmegaGW_MG
 # Population-level energy-density spectrum (Omega_GW) builder with
 # optional multiplicative correction factors.
 #
